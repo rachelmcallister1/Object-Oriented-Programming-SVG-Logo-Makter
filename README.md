@@ -10,7 +10,8 @@ This is a Node.js command-line application that takes in user input to generate 
 This link is not deployed. To view the functionality of the app, watch the following video. https://www.https://www.youtube.com/watch?v=jTQasKxZHwk 
 
 ## Screenshot 
-<img width="313" alt="Screenshot 2023-07-20 at 11 41 59 AM" src="https://github.com/rachelmcallister1/Object-Oriented-Programming-SVG-Logo-Makter/assets/123043102/6a545565-0687-4e92-82a9-7296b9cc0115">
+<img width="297" alt="Screenshot 2023-07-20 at 12 03 13 PM" src="https://github.com/rachelmcallister1/Object-Oriented-Programming-SVG-Logo-Makter/assets/123043102/8fa147b9-2852-4413-b7b6-119b1ef11c94">
+
 
 ## Sources
 Instruction provided by the Northwestern Teaching and Tutor Staff. 
